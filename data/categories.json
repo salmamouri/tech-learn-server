@@ -1,0 +1,52 @@
+[
+
+    {
+        "category_id": "1",
+        "category_name": "HTML",
+        "details": "HTML tags, HTML attributes, form, button, HTML APIs, HTML Media , class and id have to cover within a day. ",
+        "img":"images/html.png"
+        
+    },
+
+    {
+        "category_id": "2",
+        "category_name": "CSS",
+        "img":"images/css.png",
+        "details": "CSS Position,Box model, Colors, display, grid and CSS shadow, Transition, media query. "
+        
+    },
+
+    {
+        "category_id": "3",
+        "category_name": "Bootstrap",
+        "details": "Bootsrap 5 , grid, form, container,card, carousel, tooltip, toast , colors, breakpoint ,display, font size etc. ",
+        "img":"images/bootstrap-logo.png"
+    
+    },
+
+    {
+        "category_id": "4",
+        "category_name": "Tailwind",
+        "details": "Layout, flexbox and grid, spacing, sizing, typography, background, borders, effect, filters , transition etc. ",
+        "img":"images/tailwind.png"
+        
+    },
+
+    {
+        "category_id": "5",
+        "category_name": "Javascript",
+        "details": "Javascript syntax, js classes, objects, function, async, HTML Dom, Json and ES6 etc. ",
+        "img":"images/js.png"
+        
+    },
+
+    {
+        "category_id": "6",
+        "category_name": "React",
+        "details": "JSX, Componenets, props, events, router, react hooks, functional components, lifting state up etc. ",
+        "img":"images/react.png"
+        
+    }
+
+
+]
