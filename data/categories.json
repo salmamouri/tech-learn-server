@@ -33,8 +33,8 @@
     },
 
     {
-        "category_id": "5",
-        "category_name": "Javascript",
+        "id": "5",
+        "name": "Javascript",
         "details": "Javascript syntax, js classes, objects, function, async, HTML Dom, Json and ES6 etc. ",
         "img":"images/js.png"
         
