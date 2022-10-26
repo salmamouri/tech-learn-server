@@ -18,7 +18,7 @@
 
     {
         "id": "3",
-        "name": "Bootstrap",
+        "name": "Graphic Design",
         "details": "Bootsrap 5 , grid, form, container,card, carousel, tooltip, toast , colors, breakpoint ,display, font size etc. ",
         "img":"images/bootstrap-logo.png"
     
@@ -26,9 +26,9 @@
 
     {
         "id": "4",
-        "name": "Tailwind",
+        "name": "Python",
         "details": "Layout, flexbox and grid, spacing, sizing, typography, background, borders, effect, filters , transition etc. ",
-        "img":"images/tailwind.png"
+        "img":"https://freepngimg.com/download/python_logo/5-2-python-logo-png-image.png"
         
     },
 
